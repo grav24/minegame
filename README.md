@@ -1,3 +1,3 @@
 # minegame
 
-You look lonely... I can fix that
+CREDITS TO https://github.com/lDEVinux
